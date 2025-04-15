@@ -1,0 +1,2 @@
+
+import pytesseractimport pytesseractimport pytesseract
