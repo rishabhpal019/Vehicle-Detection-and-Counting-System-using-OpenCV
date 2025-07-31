@@ -1,4 +1,4 @@
-# Vehicle Detection and Counting System using OpenCV
+# Vehicle Detection and Counting System using OpenCV by Rishabh Pal
 
 ## Overview
 
